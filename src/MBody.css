@@ -1,0 +1,16 @@
+.OBody{
+    background-color: whitesmoke;
+}
+
+.OImg{
+    border-radius: 50%;
+    height: 175px;
+    margin-left: 105px;
+    margin-top: -30px;
+}
+
+.OIntro{
+    margin-right: 799px;
+    float: right;
+    display: inline-block;
+}
